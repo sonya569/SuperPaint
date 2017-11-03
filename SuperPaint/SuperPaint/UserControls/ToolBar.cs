@@ -15,6 +15,7 @@ namespace SuperPaint.UserControls
         public ToolBar()
         {
             InitializeComponent();
+            //fgdfgdfhfgh
         }
     }
 }
